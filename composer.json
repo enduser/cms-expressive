@@ -9,6 +9,9 @@
       "homepage": "https://xtreamwayz.github.io/"
     }
   ],
+  "require": {
+    "wshafer/cms-doctrine": "dev-master"
+  },
   "require-dev": {
     "phpunit/phpunit": "^4.8",
     "squizlabs/php_codesniffer": "^2.3"
