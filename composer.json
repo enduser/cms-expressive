@@ -10,7 +10,9 @@
     }
   ],
   "require": {
-    "wshafer/cms-doctrine": "dev-master"
+    "wshafer/cms-doctrine": "dev-master",
+    "zendframework/zend-authentication": "^2.5",
+    "zendframework/zend-permissions-acl": "^2.5"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.8",
